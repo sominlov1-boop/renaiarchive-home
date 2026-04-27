@@ -624,6 +624,13 @@ var index_default = {
       nav { gap: 12px; }
       nav a { font-size: 0.92rem; }
       .hero { padding-top: 44px; }
+      #bgm-player {
+        top: 14px !important;
+        right: 14px !important;
+        bottom: auto !important;
+        padding: 6px !important;
+      }
+      #bgm-title { display: none !important; }
       .card, .modal-content { padding: 20px; }
       .thumb { height: 190px; }
       .cat-silhouette { left: 16px; bottom: 16px; }
